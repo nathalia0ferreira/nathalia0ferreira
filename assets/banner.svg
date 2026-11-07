@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+  <rect width="1200" height="360" rx="20" fill="#2A2A2A"/>
+  <g font-family="Outfit, Sora, Inter, 'Segoe UI', Arial, sans-serif">
+    <text x="80" y="92" fill="#DCCFF0" font-size="22" font-weight="600">✦  Nathalia em tech</text>
+    <path d="M80 112 Q190 104 300 110" stroke="#A78DC0" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="78" y="200" fill="#FEF4E8" font-size="64" font-weight="800">Transformando ideias</text>
+    <text x="78" y="270" fill="#A78DC0" font-size="64" font-weight="800">em projetos.</text>
+    <text x="80" y="318" fill="#FEF4E8" fill-opacity=".7" font-size="20">Ciência da Computação · Front-end · UI/UX</text>
+  </g>
+  <path d="M900 250 Q980 330 1090 300 T1160 200" stroke="#A78DC0" stroke-width="2" stroke-dasharray="6 8" fill="none"/>
+  <g fill="#A78DC0">
+    <path d="M1040 70 l8 22 22 8 -22 8 -8 22 -8 -22 -22 -8 22 -8z"/>
+    <path d="M960 150 l5 13 13 5 -13 5 -5 13 -5 -13 -13 -5 13 -5z" fill="#DCCFF0"/>
+    <path d="M1110 180 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z"/>
+  </g>
+</svg>
