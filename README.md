@@ -34,4 +34,12 @@ Este perfil é meu diário de construção: projetos, experimentos e o que apren
 
 <br/>
 
+### ✦ Vamos conversar
+
+<p>
+  <a href="https://www.linkedin.com/in/nath%C3%A1lia-souza-15a1a2353/"><img src="https://img.shields.io/badge/LinkedIn-2A2A2A?style=for-the-badge&logo=linkedin&logoColor=A78DC0" alt="LinkedIn"/></a>
+</p>
+
+<br/>
+
 <p align="center"><sub>✦ Transformando ideias em projetos ✦</sub></p>
